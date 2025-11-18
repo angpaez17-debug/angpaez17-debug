@@ -2,7 +2,7 @@
 <p align="center">
   <img src="data-scientist-word-banner-vector.jpg" alt="Banner" width="100%">
 </p>
-</p>## 🛠 Tech Stack
+</p>🛠 Tech Stack
 
 ### *Languages / Lenguajes*
 - Python 🐍
