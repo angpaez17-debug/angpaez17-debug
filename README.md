@@ -1,6 +1,7 @@
 ## Hi there i am Angela Paez 👋
 <p align="center">
-  <img src="(https://www.vecteezy.com/vector-art/1759768-data-scientist-word-banner)" alt="Banner" width="100%">
+  <img src="data-scientist-word-banner-vector.jpg" alt="Banner" width="100%">
+</p>
 </p>
 <!--
 **angpaez17-debug/angpaez17-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
